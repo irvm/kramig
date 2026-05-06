@@ -61,7 +61,7 @@
 			>
 			<button
 				on:click={() => setType('original')}
-				selected={toyType === 'original' || null}>KRAMIG Mini Panda</button
+				selected={toyType === 'original' || null}>DJUNGELSKOG Mini Panda</button
 			>
 		</div>
 		<div class="display-image-wrapper">
@@ -71,7 +71,7 @@
 				</div>
 			{:else if toyType === 'original'}
 				<div transition:fly={{ x: 800, duration: 400 }} class="display-image">
-					<img src="https://www.ikea.com/us/en/images/products/kramig-soft-toy-mini-panda__1388552_pe964844_s5.jpg?f=xl" alt="KRAMIG Mini Panda" />
+					<img src="https://www.ikea.com/us/en/images/products/kramig-soft-toy-mini-panda__1388552_pe964844_s5.jpg?f=xl" alt="DJUNGELSKOG Mini Panda" />
 				</div>
 			{/if}
 		</div>

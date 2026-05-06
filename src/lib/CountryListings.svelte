@@ -10,7 +10,7 @@
 	let isOpen = false
 
 	const available = typeof countryData.itemUrls?.[itemType] != 'undefined'
-	const toyName = itemType === 'original' ? 'KRAMIG Mini Panda' : 'KRAMIG'
+	const toyName = itemType === 'original' ? 'DJUNGELSKOG Mini Panda' : 'KRAMIG'
 
 	function onClick() {
 		isOpen = !isOpen
