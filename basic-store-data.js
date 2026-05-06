@@ -597,7 +597,7 @@ export const ikeaData = [
 		cantCheckUrls: true,
 		cantCheckAutomatically: true,
 		cantCheckAutomaticallyMessage:
-			"Puerto Rico's IKEA website uses a different codebase, so this site cannot check the BLÅHAJ stock automatically at the moment. Check on their site at the link below!"
+			"Puerto Rico's IKEA website uses a different codebase, so this site cannot check the KRAMIG stock automatically at the moment. Check on their site at the link below!"
 	},
 	{
 		name: 'Dominican Republic',
@@ -615,7 +615,7 @@ export const ikeaData = [
 		cantCheckUrls: true,
 		cantCheckAutomatically: true,
 		cantCheckAutomaticallyMessage:
-			"The Dominican Republic's IKEA website uses a different codebase, so this site cannot check the BLÅHAJ stock automatically at the moment. Check on their site at the link below!"
+			"The Dominican Republic's IKEA website uses a different codebase, so this site cannot check the KRAMIG stock automatically at the moment. Check on their site at the link below!"
 	},
 	{
 		name: 'Ukraine',
@@ -625,7 +625,7 @@ export const ikeaData = [
 		unavailable: true,
 		cantCheckUrls: true,
 		cantCheckAutomatically: true,
-		cantCheckAutomaticallyMessage: 'Ukraine seems to not sell BLÅHAJ.'
+		cantCheckAutomaticallyMessage: 'Ukraine seems to not sell KRAMIG.'
 	},
 	{
 		name: 'Turkey',
@@ -637,7 +637,7 @@ export const ikeaData = [
 		cantCheckUrls: true,
 		cantCheckAutomatically: true,
 		cantCheckAutomaticallyMessage:
-			"Turkey's IKEA website uses a different codebase, so this site cannot check the BLÅHAJ stock automatically at the moment. Check on their site at the link below!"
+			"Turkey's IKEA website uses a different codebase, so this site cannot check the KRAMIG stock automatically at the moment. Check on their site at the link below!"
 	},
 	{
 		name: 'Taiwan',
@@ -650,7 +650,7 @@ export const ikeaData = [
 		cantCheckUrls: true,
 		cantCheckAutomatically: true,
 		cantCheckAutomaticallyMessage:
-			"Taiwan's IKEA website uses a different codebase, so this site cannot check the BLÅHAJ stock automatically at the moment. Check on their site at the link below!"
+			"Taiwan's IKEA website uses a different codebase, so this site cannot check the KRAMIG stock automatically at the moment. Check on their site at the link below!"
 	},
 	{
 		name: 'China',
@@ -663,6 +663,6 @@ export const ikeaData = [
 		},
 		cantCheckAutomatically: true,
 		cantCheckAutomaticallyMessage:
-			"China's IKEA website uses a different codebase, so this site cannot check the BLÅHAJ stock automatically at the moment. Check on their site at the link below!"
+			"China's IKEA website uses a different codebase, so this site cannot check the KRAMIG stock automatically at the moment. Check on their site at the link below!"
 	}
 ]
