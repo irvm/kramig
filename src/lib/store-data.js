@@ -5,12 +5,14 @@ export default [
 		"countryCode": "au",
 		"urlCode": "au/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "10221317"
+			"kramig": "10221317",
+			"djungelskog_mini": "10606107"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/au/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/au/en/p/kramig-10221317/"
+			"kramig": "https://www.ikea.com/au/en/p/kramig-10221317/",
+			"djungelskog": "https://www.ikea.com/au/en/",
+			"djungelskog_mini": "https://www.ikea.com/au/en/p/djungelskog-soft-toy-mini-panda-10606107/",
+			"zoo": "https://www.ikea.com/au/en/"
 		},
 		"stores": [
 			{
@@ -81,12 +83,13 @@ export default [
 		"countryCode": "at",
 		"urlCode": "at/de",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/at/de/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/at/de/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/at/de/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/at/de/",
+			"djungelskog_mini": "https://www.ikea.com/at/de/",
+			"zoo": "https://www.ikea.com/at/de/"
 		},
 		"stores": [
 			{
@@ -145,12 +148,13 @@ export default [
 		"countryCode": "bh",
 		"urlCode": "bh/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "60556379"
+			"kramig": "60556379"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/bh/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/bh/en/p/kramig-60556379/"
+			"kramig": "https://www.ikea.com/bh/en/p/kramig-60556379/",
+			"djungelskog": "https://www.ikea.com/bh/en/",
+			"djungelskog_mini": "https://www.ikea.com/bh/en/",
+			"zoo": "https://www.ikea.com/bh/en/"
 		},
 		"stores": [
 			{
@@ -167,12 +171,14 @@ export default [
 		"countryCode": "be",
 		"urlCode": "be/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/be/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/be/en/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/be/en/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/be/en/",
+			"djungelskog_mini": "https://www.ikea.com/be/en/p/djungelskog-soft-toy-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/be/en/"
 		},
 		"stores": [
 			{
@@ -229,15 +235,20 @@ export default [
 		"name": "Bulgaria",
 		"emoji": "🇧🇬",
 		"itemUrls": {
-			"original": "https://www.ikea.bg/products/baby-children/children-3-7/toys-play/soft-toys/kramig-plyushena-igrachka-akula/30373588",
-			"baby": "https://www.ikea.bg/products/kramig-plyushena-igrachka/30221316/"
+			"kramig": "https://www.ikea.bg/products/kramig-plyushena-igrachka/30221316/",
+			"djungelskog": "https://www.ikea.bg/products/djungelskog-plyushena-igrachka-panda/80402809/",
+			"djungelskog_mini": "https://www.ikea.bg/products/djungelskog-plyushena-igrachka-panda/30606106/",
+			"zoo": "https://www.ikea.bg/products/djungelskog-plyushena-igrachka/60402810/"
 		},
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog": "80402809",
+			"djungelskog_mini": "30606106",
+			"zoo": "60402810"
 		},
 		"ikeaOrigin": "https://www.ikea.bg",
-		"apiType": 1
+		"apiType": 1,
+		"countryCode": "bg"
 	},
 	{
 		"name": "Canada",
@@ -245,12 +256,14 @@ export default [
 		"countryCode": "ca",
 		"urlCode": "ca/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "90221318"
+			"kramig": "90221318",
+			"djungelskog_mini": "70606109"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/ca/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/ca/en/p/kramig-90221318/"
+			"kramig": "https://www.ikea.com/ca/en/p/kramig-90221318/",
+			"djungelskog": "https://www.ikea.com/ca/en/",
+			"djungelskog_mini": "https://www.ikea.com/ca/en/p/djungelskog-soft-toy-mini-panda-70606109/",
+			"zoo": "https://www.ikea.com/ca/en/"
 		},
 		"stores": [
 			{
@@ -357,12 +370,14 @@ export default [
 		"countryCode": "cl",
 		"urlCode": "cl/es",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog": "80402809"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/cl/es/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/cl/es/cat/peluches-18740/"
+			"kramig": "https://www.ikea.com/cl/es/cat/peluches-18740/",
+			"djungelskog": "https://www.ikea.com/cl/es/p/djungelskog-peluche-panda-80402809/",
+			"djungelskog_mini": "https://www.ikea.com/cl/es/",
+			"zoo": "https://www.ikea.com/cl/es/"
 		},
 		"stores": [
 			{
@@ -385,13 +400,16 @@ export default [
 		"countryCode": "cn",
 		"urlCode": "cn/zh",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "10221317"
+			"kramig": "10221317",
+			"djungelskog_mini": "10606107"
 		},
 		"cantCheckAutomatically": true,
 		"cantCheckAutomaticallyMessage": "China's IKEA website uses a different codebase, so this site cannot check the KRAMIG stock automatically at the moment. Check on their site at the link below!",
 		"itemUrls": {
-			"baby": "https://www.ikea.cn/cn/en/p/kramig-10221317/"
+			"kramig": "https://www.ikea.cn/cn/en/p/kramig-10221317/",
+			"djungelskog": "https://www.ikea.com/cn/zh/",
+			"djungelskog_mini": "https://www.ikea.cn/cn/en/p/djungelskog-soft-toy-mini-panda-10606107/",
+			"zoo": "https://www.ikea.com/cn/zh/"
 		}
 	},
 	{
@@ -400,12 +418,14 @@ export default [
 		"countryCode": "hr",
 		"urlCode": "hr/hr",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/hr/hr/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/hr/hr/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/hr/hr/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/hr/hr/",
+			"djungelskog_mini": "https://www.ikea.com/hr/hr/p/djungelskog-plisana-igracka-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/hr/hr/"
 		},
 		"stores": [
 			{
@@ -420,15 +440,19 @@ export default [
 		"name": "Cyprus",
 		"emoji": "🇨🇾",
 		"itemUrls": {
-			"original": "https://www.ikea.com.cy/en/products/baby-children/children-3-7/toys-play-3-7/soft-toys/kramig-soft-toy/30373588",
-			"baby": "https://www.ikea.com.cy/en/products/kramig-soft-toy/30221316/"
+			"kramig": "https://www.ikea.com.cy/en/products/kramig-soft-toy/30221316/",
+			"djungelskog": "https://www.ikea.com.cy/en/products/djungelskog-soft-toy-panda/80402809/",
+			"djungelskog_mini": "https://www.ikea.com.cy/en/products/djungelskog-soft-toy-mini-panda-11-cm/30606106/",
+			"zoo": "https://www.ikea.com.cy"
 		},
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog": "80402809",
+			"djungelskog_mini": "30606106"
 		},
 		"ikeaOrigin": "https://www.ikea.com.cy",
-		"apiType": 1
+		"apiType": 1,
+		"countryCode": "cy"
 	},
 	{
 		"name": "Czech Republic",
@@ -436,12 +460,13 @@ export default [
 		"countryCode": "cz",
 		"urlCode": "cz/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/cz/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/cz/en/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/cz/en/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/cz/en/",
+			"djungelskog_mini": "https://www.ikea.com/cz/en/",
+			"zoo": "https://www.ikea.com/cz/en/"
 		},
 		"stores": [
 			{
@@ -476,12 +501,15 @@ export default [
 		"countryCode": "dk",
 		"urlCode": "dk/da",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog": "80402809",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/dk/da/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/dk/da/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/dk/da/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/dk/da/p/djungelskog-tojdyr-panda-80402809/",
+			"djungelskog_mini": "https://www.ikea.com/dk/da/p/djungelskog-tojdyr-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/dk/da/"
 		},
 		"stores": [
 			{
@@ -527,17 +555,19 @@ export default [
 		"emoji": "🇩🇴",
 		"ikeaOrigin": "https://www.ikea.com.do",
 		"itemUrls": {
-			"original": "https://www.ikea.com.do/en/pd/kramig-70606109",
-			"baby": "https://www.ikea.com.do/en/pd/kramig-soft-toy-white-black-art-90221318"
+			"kramig": "https://www.ikea.com.do/en/pd/kramig-soft-toy-white-black-art-90221318",
+			"djungelskog": "https://www.ikea.com.do",
+			"djungelskog_mini": "https://www.ikea.com.do",
+			"zoo": "https://www.ikea.com.do"
 		},
 		"itemIds": {
-			"original": "70606109",
-			"baby": "90221318"
+			"kramig": "90221318"
 		},
 		"apiType": 4,
 		"cantCheckUrls": true,
 		"cantCheckAutomatically": true,
-		"cantCheckAutomaticallyMessage": "The Dominican Republic's IKEA website uses a different codebase, so this site cannot check the KRAMIG stock automatically at the moment. Check on their site at the link below!"
+		"cantCheckAutomaticallyMessage": "The Dominican Republic's IKEA website uses a different codebase, so this site cannot check the KRAMIG stock automatically at the moment. Check on their site at the link below!",
+		"countryCode": "do"
 	},
 	{
 		"name": "Egypt",
@@ -545,12 +575,14 @@ export default [
 		"countryCode": "eg",
 		"urlCode": "eg/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/eg/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/eg/en/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/eg/en/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/eg/en/",
+			"djungelskog_mini": "https://www.ikea.com/eg/en/p/djungelskog-soft-toy-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/eg/en/"
 		},
 		"stores": [
 			{
@@ -571,15 +603,18 @@ export default [
 		"name": "Estonia",
 		"emoji": "🇪🇪",
 		"itemUrls": {
-			"original": "https://www.ikea.ee/en/products/children-s-room/baby/comfort-toys/kramig-70606109",
-			"baby": "https://www.ikea.ee/en/products/children-s-room/baby/comfort-toys/kramig-30221316"
+			"kramig": "https://www.ikea.ee/en/products/children-s-room/baby/comfort-toys/kramig-30221316",
+			"djungelskog": "https://www.ikea.ee",
+			"djungelskog_mini": "https://www.ikea.com/ee/en/p/djungelskog-soft-toy-mini-panda-30606106/",
+			"zoo": "https://www.ikea.ee"
 		},
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"ikeaOrigin": "https://www.ikea.ee",
-		"apiType": 2
+		"apiType": 2,
+		"countryCode": "ee"
 	},
 	{
 		"name": "Finland",
@@ -587,12 +622,14 @@ export default [
 		"countryCode": "fi",
 		"urlCode": "fi/fi",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/fi/fi/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/fi/fi/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/fi/fi/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/fi/fi/",
+			"djungelskog_mini": "https://www.ikea.com/fi/fi/p/djungelskog-pehmolelu-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/fi/fi/"
 		},
 		"stores": [
 			{
@@ -633,12 +670,14 @@ export default [
 		"countryCode": "fr",
 		"urlCode": "fr/fr",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/fr/fr/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/fr/fr/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/fr/fr/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/fr/fr/",
+			"djungelskog_mini": "https://www.ikea.com/fr/fr/p/djungelskog-peluche-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/fr/fr/"
 		},
 		"stores": [
 			{
@@ -865,12 +904,13 @@ export default [
 		"countryCode": "de",
 		"urlCode": "de/de",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/de/de/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/de/de/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/de/de/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/de/de/",
+			"djungelskog_mini": "https://www.ikea.com/de/de/",
+			"zoo": "https://www.ikea.com/de/de/"
 		},
 		"stores": [
 			{
@@ -1203,28 +1243,35 @@ export default [
 		"name": "Greece",
 		"emoji": "🇬🇷",
 		"itemUrls": {
-			"original": "https://www.ikea.gr/en/products/baby-children/children-3-7/toys-play-3-7/soft-toys/kramig-soft-toy/30373588",
-			"baby": "https://www.ikea.gr/en/products/kramig-soft-toy/30221316/"
+			"kramig": "https://www.ikea.gr/en/products/kramig-soft-toy/30221316/",
+			"djungelskog": "https://www.ikea.gr/en/products/djungelskog-soft-toy-panda/80402809/",
+			"djungelskog_mini": "https://www.ikea.gr/en/products/djungelskog-soft-toy-mini-panda-11-cm/30606106/",
+			"zoo": "https://www.ikea.gr"
 		},
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog": "80402809",
+			"djungelskog_mini": "30606106"
 		},
 		"ikeaOrigin": "https://www.ikea.gr",
-		"apiType": 1
+		"apiType": 1,
+		"countryCode": "gr"
 	},
 	{
 		"name": "Hong Kong",
 		"emoji": "🇭🇰",
 		"itemUrls": {
-			"original": "https://www.ikea.com.hk/en/products/childrens-toys-play-and-learn/soft-toys/kramig-70606109",
-			"baby": "https://www.ikea.com.hk/en/products/kids-toys/comfort-toys/kramig-art-10221317"
+			"kramig": "https://www.ikea.com.hk/en/products/kids-toys/comfort-toys/kramig-art-10221317",
+			"djungelskog": "https://www.ikea.com/",
+			"djungelskog_mini": "https://www.ikea.com/",
+			"zoo": "https://www.ikea.com.hk/en/products/kids-toys/comfort-toys/djungelskog-art-00402846"
 		},
 		"apiType": 3,
 		"itemIds": {
-			"original": "70606109",
-			"baby": "10221317"
-		}
+			"kramig": "10221317",
+			"zoo": "00402846"
+		},
+		"countryCode": "hk"
 	},
 	{
 		"name": "Hungary",
@@ -1232,12 +1279,13 @@ export default [
 		"countryCode": "hu",
 		"urlCode": "hu/hu",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/hu/hu/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/hu/hu/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/hu/hu/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/hu/hu/",
+			"djungelskog_mini": "https://www.ikea.com/hu/hu/",
+			"zoo": "https://www.ikea.com/hu/hu/"
 		},
 		"stores": [
 			{
@@ -1264,14 +1312,17 @@ export default [
 		"name": "Iceland",
 		"emoji": "🇮🇸",
 		"itemUrls": {
-			"original": "https://www.ikea.is/en/products/baby-children/play/soft-toys/kramig-70606109",
-			"baby": "https://www.ikea.is/en/products/christmas/gift-ideas/gift-ideas/kramig-30221316"
+			"kramig": "https://www.ikea.is/en/products/christmas/gift-ideas/gift-ideas/kramig-30221316",
+			"djungelskog": "https://www.ikea.com/",
+			"djungelskog_mini": "https://www.ikea.is/en/products/baby-children/play/comfort-toys/djungelskog-soft-toy-art-30606106",
+			"zoo": "https://www.ikea.com/"
 		},
 		"apiType": 3,
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
-		}
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
+		},
+		"countryCode": "is"
 	},
 	{
 		"name": "India",
@@ -1279,12 +1330,14 @@ export default [
 		"countryCode": "in",
 		"urlCode": "in/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "10221317"
+			"kramig": "10221317",
+			"djungelskog": "70402843"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/in/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/in/en/p/kramig-10221317/"
+			"kramig": "https://www.ikea.com/in/en/p/kramig-10221317/",
+			"djungelskog": "https://www.ikea.com/in/en/p/djungelskog-soft-toy-panda-70402843/",
+			"djungelskog_mini": "https://www.ikea.com/in/en/",
+			"zoo": "https://www.ikea.com/in/en/"
 		},
 		"stores": [
 			{
@@ -1323,14 +1376,18 @@ export default [
 		"name": "Indonesia",
 		"emoji": "🇮🇩",
 		"itemUrls": {
-			"original": "https://www.ikea.co.id/en/products/children-play/comfort-toys/kramig-70606109",
-			"baby": "https://www.ikea.co.id/en/products/toys-and-creativity/comfort-toys/kramig-art-10221317"
+			"kramig": "https://www.ikea.co.id/en/products/toys-and-creativity/comfort-toys/kramig-art-10221317",
+			"djungelskog": "https://www.ikea.co.id/en/products/toys-and-creativity/comfort-toys/djungelskog-art-70402843",
+			"djungelskog_mini": "https://www.ikea.com/",
+			"zoo": "https://www.ikea.co.id/en/products/toys-and-creativity/comfort-toys/djungelskog-art-00402846"
 		},
 		"apiType": 3,
 		"itemIds": {
-			"original": "70606109",
-			"baby": "10221317"
-		}
+			"kramig": "10221317",
+			"djungelskog": "70402843",
+			"zoo": "00402846"
+		},
+		"countryCode": "id"
 	},
 	{
 		"name": "Ireland",
@@ -1338,12 +1395,14 @@ export default [
 		"countryCode": "ie",
 		"urlCode": "ie/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog": "80402809"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/ie/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/ie/en/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/ie/en/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/ie/en/p/djungelskog-soft-toy-panda-80402809/",
+			"djungelskog_mini": "https://www.ikea.com/ie/en/",
+			"zoo": "https://www.ikea.com/ie/en/"
 		},
 		"stores": [
 			{
@@ -1360,12 +1419,13 @@ export default [
 		"countryCode": "il",
 		"urlCode": "il/he",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/il/he/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/il/he/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/il/he/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/il/he/",
+			"djungelskog_mini": "https://www.ikea.com/il/he/",
+			"zoo": "https://www.ikea.com/il/he/"
 		},
 		"stores": [
 			{
@@ -1406,12 +1466,14 @@ export default [
 		"countryCode": "it",
 		"urlCode": "it/it",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/it/it/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/it/it/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/it/it/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/it/it/",
+			"djungelskog_mini": "https://www.ikea.com/lt/en/p/djungelskog-soft-toy-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/it/it/"
 		},
 		"stores": [
 			{
@@ -1554,12 +1616,14 @@ export default [
 		"countryCode": "jp",
 		"urlCode": "jp/ja",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "10221317"
+			"kramig": "10221317",
+			"djungelskog_mini": "10606107"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/jp/ja/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/jp/ja/p/kramig-10221317/"
+			"kramig": "https://www.ikea.com/jp/ja/p/kramig-10221317/",
+			"djungelskog": "https://www.ikea.com/jp/ja/",
+			"djungelskog_mini": "https://www.ikea.com/jp/ja/p/djungelskog-soft-toy-mini-panda-10606107/",
+			"zoo": "https://www.ikea.com/jp/ja/"
 		},
 		"stores": [
 			{
@@ -1648,12 +1712,14 @@ export default [
 		"countryCode": "jo",
 		"urlCode": "jo/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/jo/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/jo/en/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/jo/en/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/jo/en/",
+			"djungelskog_mini": "https://www.ikea.com/jo/en/p/djungelskog-soft-toy-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/jo/en/"
 		},
 		"stores": [
 			{
@@ -1670,12 +1736,14 @@ export default [
 		"countryCode": "kw",
 		"urlCode": "kw/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "60556379"
+			"kramig": "60556379",
+			"djungelskog_mini": "90606108"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/kw/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/kw/en/p/kramig-60556379/"
+			"kramig": "https://www.ikea.com/kw/en/p/kramig-60556379/",
+			"djungelskog": "https://www.ikea.com/kw/en/",
+			"djungelskog_mini": "https://www.ikea.com/kw/en/p/djungelskog-soft-toy-mini-panda-90606108/",
+			"zoo": "https://www.ikea.com/kw/en/"
 		},
 		"stores": [
 			{
@@ -1696,29 +1764,35 @@ export default [
 		"name": "Latvia",
 		"emoji": "🇱🇻",
 		"itemUrls": {
-			"original": "https://www.ikea.lv/en/products/children-s-room/children-3-7/comfort-toys/kramig-70606109",
-			"baby": "https://www.ikea.lv/en/products/children-s-room/children-3-7/comfort-toys/kramig-30221316"
+			"kramig": "https://www.ikea.lv/en/products/children-s-room/children-3-7/comfort-toys/kramig-30221316",
+			"djungelskog": "https://www.ikea.lv",
+			"djungelskog_mini": "https://www.ikea.com/lv/en/p/djungelskog-soft-toy-mini-panda-30606106/",
+			"zoo": "https://www.ikea.lv"
 		},
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"ikeaOrigin": "https://www.ikea.lv",
-		"apiType": 2
+		"apiType": 2,
+		"countryCode": "lv"
 	},
 	{
 		"name": "Lithuania",
 		"emoji": "🇱🇹",
 		"itemUrls": {
-			"original": "https://www.ikea.lt/en/products/children-s-room/for-babies/comfort-toys/kramig-70606109",
-			"baby": "https://www.ikea.lt/en/products/children-s-room/for-babies/comfort-toys/kramig-30221316"
+			"kramig": "https://www.ikea.lt/en/products/children-s-room/for-babies/comfort-toys/kramig-30221316",
+			"djungelskog": "https://www.ikea.lt",
+			"djungelskog_mini": "https://www.ikea.com/lt/en/p/djungelskog-soft-toy-mini-panda-30606106/",
+			"zoo": "https://www.ikea.lt"
 		},
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"ikeaOrigin": "https://www.ikea.lt",
-		"apiType": 2
+		"apiType": 2,
+		"countryCode": "lt"
 	},
 	{
 		"name": "Macau",
@@ -1726,12 +1800,13 @@ export default [
 		"countryCode": "ma",
 		"urlCode": "ma/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/ma/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/ma/en/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/ma/en/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/ma/en/",
+			"djungelskog_mini": "https://www.ikea.com/ma/en/",
+			"zoo": "https://www.ikea.com/ma/en/"
 		},
 		"stores": [
 			{
@@ -1754,12 +1829,13 @@ export default [
 		"countryCode": "my",
 		"urlCode": "my/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "10221317"
+			"kramig": "10221317"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/my/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/my/en/p/kramig-10221317/"
+			"kramig": "https://www.ikea.com/my/en/p/kramig-10221317/",
+			"djungelskog": "https://www.ikea.com/my/en/",
+			"djungelskog_mini": "https://www.ikea.com/my/en/",
+			"zoo": "https://www.ikea.com/my/en/"
 		},
 		"stores": [
 			{
@@ -1800,12 +1876,15 @@ export default [
 		"countryCode": "mx",
 		"urlCode": "mx/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "90221318"
+			"kramig": "90221318",
+			"djungelskog": "50402844",
+			"djungelskog_mini": "70606109"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/mx/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/mx/en/p/kramig-90221318/"
+			"kramig": "https://www.ikea.com/mx/en/p/kramig-90221318/",
+			"djungelskog": "https://www.ikea.com/mx/en/p/djungelskog-soft-toy-panda-50402844/",
+			"djungelskog_mini": "https://www.ikea.com/mx/en/p/djungelskog-soft-toy-mini-panda-70606109/",
+			"zoo": "https://www.ikea.com/mx/en/"
 		},
 		"stores": [
 			{
@@ -1834,12 +1913,14 @@ export default [
 		"countryCode": "ma",
 		"urlCode": "ma/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/ma/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/ma/en/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/ma/en/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/ma/en/",
+			"djungelskog_mini": "https://www.ikea.com/ma/en/p/djungelskog-soft-toy-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/ma/en/"
 		},
 		"stores": [
 			{
@@ -1862,12 +1943,13 @@ export default [
 		"countryCode": "nl",
 		"urlCode": "nl/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/nl/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/nl/en/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/nl/en/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/nl/en/",
+			"djungelskog_mini": "https://www.ikea.com/nl/en/",
+			"zoo": "https://www.ikea.com/nl/en/"
 		},
 		"stores": [
 			{
@@ -1956,12 +2038,14 @@ export default [
 		"countryCode": "no",
 		"urlCode": "no/no",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/no/no/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/no/no/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/no/no/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/no/no/",
+			"djungelskog_mini": "https://www.ikea.com/no/no/p/djungelskog-toyleke-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/no/no/"
 		},
 		"stores": [
 			{
@@ -2020,12 +2104,13 @@ export default [
 		"countryCode": "om",
 		"urlCode": "om/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "60556379"
+			"kramig": "60556379"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/om/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/om/en/p/kramig-60556379/"
+			"kramig": "https://www.ikea.com/om/en/p/kramig-60556379/",
+			"djungelskog": "https://www.ikea.com/om/en/",
+			"djungelskog_mini": "https://www.ikea.com/om/en/",
+			"zoo": "https://www.ikea.com/om/en/"
 		},
 		"stores": [
 			{
@@ -2042,12 +2127,13 @@ export default [
 		"countryCode": "ph",
 		"urlCode": "ph/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "10221317"
+			"kramig": "10221317"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/ph/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/ph/en/p/kramig-10221317/"
+			"kramig": "https://www.ikea.com/ph/en/p/kramig-10221317/",
+			"djungelskog": "https://www.ikea.com/ph/en/",
+			"djungelskog_mini": "https://www.ikea.com/ph/en/",
+			"zoo": "https://www.ikea.com/ph/en/"
 		},
 		"stores": [
 			{
@@ -2064,12 +2150,14 @@ export default [
 		"countryCode": "pl",
 		"urlCode": "pl/pl",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/pl/pl/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/pl/pl/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/pl/pl/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/pl/pl/",
+			"djungelskog_mini": "https://www.ikea.com/pl/pl/p/djungelskog-pluszak-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/pl/pl/"
 		},
 		"stores": [
 			{
@@ -2152,12 +2240,14 @@ export default [
 		"countryCode": "pt",
 		"urlCode": "pt/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/pt/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/pt/en/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/pt/en/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/pt/en/",
+			"djungelskog_mini": "https://www.ikea.com/pt/en/p/djungelskog-soft-toy-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/pt/en/"
 		},
 		"stores": [
 			{
@@ -2197,17 +2287,19 @@ export default [
 		"emoji": "🇵🇷",
 		"ikeaOrigin": "https://www.ikea.pr/puertorico",
 		"itemUrls": {
-			"original": "https://www.ikea.pr/puertorico/en/pd/kramig-70606109",
-			"baby": "https://www.ikea.pr/puertorico/en/pd/kramig-soft-toy-white-black-art-90221318"
+			"kramig": "https://www.ikea.pr/puertorico/en/pd/kramig-soft-toy-white-black-art-90221318",
+			"djungelskog": "https://www.ikea.pr/puertorico",
+			"djungelskog_mini": "https://www.ikea.pr/puertorico",
+			"zoo": "https://www.ikea.pr/puertorico"
 		},
 		"itemIds": {
-			"original": "70606109",
-			"baby": "90221318"
+			"kramig": "90221318"
 		},
 		"apiType": 4,
 		"cantCheckUrls": true,
 		"cantCheckAutomatically": true,
-		"cantCheckAutomaticallyMessage": "Puerto Rico's IKEA website uses a different codebase, so this site cannot check the KRAMIG stock automatically at the moment. Check on their site at the link below!"
+		"cantCheckAutomaticallyMessage": "Puerto Rico's IKEA website uses a different codebase, so this site cannot check the KRAMIG stock automatically at the moment. Check on their site at the link below!",
+		"countryCode": "pr"
 	},
 	{
 		"name": "Qatar",
@@ -2215,12 +2307,14 @@ export default [
 		"countryCode": "qa",
 		"urlCode": "qa/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "60556379"
+			"kramig": "60556379",
+			"zoo": "90556716"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/qa/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/qa/en/p/kramig-60556379/"
+			"kramig": "https://www.ikea.com/qa/en/p/kramig-60556379/",
+			"djungelskog": "https://www.ikea.com/qa/en/",
+			"djungelskog_mini": "https://www.ikea.com/qa/en/",
+			"zoo": "https://www.ikea.com/qa/en/p/djungelskog-soft-toy-assorted-designs-90556716/"
 		},
 		"stores": [
 			{
@@ -2237,12 +2331,14 @@ export default [
 		"countryCode": "ro",
 		"urlCode": "ro/ro",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/ro/ro/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/ro/ro/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/ro/ro/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/ro/ro/",
+			"djungelskog_mini": "https://www.ikea.com/ro/ro/p/djungelskog-jucarie-de-plus-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/ro/ro/"
 		},
 		"stores": [
 			{
@@ -2271,12 +2367,14 @@ export default [
 		"countryCode": "sa",
 		"urlCode": "sa/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "60556379"
+			"kramig": "60556379",
+			"djungelskog_mini": "90606108"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/sa/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/sa/en/p/kramig-60556379/"
+			"kramig": "https://www.ikea.com/sa/en/p/kramig-60556379/",
+			"djungelskog": "https://www.ikea.com/sa/en/",
+			"djungelskog_mini": "https://www.ikea.com/sa/en/p/djungelskog-soft-toy-mini-panda-90606108/",
+			"zoo": "https://www.ikea.com/sa/en/"
 		},
 		"stores": [
 			{
@@ -2317,12 +2415,14 @@ export default [
 		"countryCode": "rs",
 		"urlCode": "rs/sr",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/rs/sr/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/rs/sr/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/rs/sr/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/rs/sr/",
+			"djungelskog_mini": "https://www.ikea.com/rs/sr/p/djungelskog-plisana-igracka-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/rs/sr/"
 		},
 		"stores": [
 			{
@@ -2339,12 +2439,14 @@ export default [
 		"countryCode": "sg",
 		"urlCode": "sg/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "10221317"
+			"kramig": "10221317",
+			"djungelskog_mini": "10606107"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/sg/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/sg/en/p/kramig-10221317/"
+			"kramig": "https://www.ikea.com/sg/en/p/kramig-10221317/",
+			"djungelskog": "https://www.ikea.com/sg/en/",
+			"djungelskog_mini": "https://www.ikea.com/sg/en/p/djungelskog-soft-toy-mini-panda-10606107/",
+			"zoo": "https://www.ikea.com/sg/en/"
 		},
 		"stores": [
 			{
@@ -2373,12 +2475,14 @@ export default [
 		"countryCode": "sk",
 		"urlCode": "sk/sk",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/sk/sk/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/sk/sk/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/sk/sk/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/sk/sk/",
+			"djungelskog_mini": "https://www.ikea.com/sk/sk/p/djungelskog-plysova-hracka-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/sk/sk/"
 		},
 		"stores": [
 			{
@@ -2395,12 +2499,14 @@ export default [
 		"countryCode": "si",
 		"urlCode": "si/sl",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/si/sl/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/si/sl/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/si/sl/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/si/sl/",
+			"djungelskog_mini": "https://www.ikea.com/si/sl/p/djungelskog-plisasta-igraca-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/si/sl/"
 		},
 		"stores": [
 			{
@@ -2417,12 +2523,14 @@ export default [
 		"countryCode": "kr",
 		"urlCode": "kr/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "10221317"
+			"kramig": "10221317",
+			"djungelskog_mini": "10606107"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/kr/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/kr/en/p/kramig-10221317/"
+			"kramig": "https://www.ikea.com/kr/en/p/kramig-10221317/",
+			"djungelskog": "https://www.ikea.com/kr/en/",
+			"djungelskog_mini": "https://www.ikea.com/kr/en/p/djungelskog-soft-toy-mini-panda-10606107/",
+			"zoo": "https://www.ikea.com/kr/en/"
 		},
 		"stores": [
 			{
@@ -2463,12 +2571,14 @@ export default [
 		"countryCode": "es",
 		"urlCode": "es/es",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog": "80402809"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/es/es/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/es/es/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/es/es/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/es/es/p/djungelskog-peluche-panda-80402809/",
+			"djungelskog_mini": "https://www.ikea.com/es/es/",
+			"zoo": "https://www.ikea.com/es/es/"
 		},
 		"stores": [
 			{
@@ -2647,12 +2757,15 @@ export default [
 		"countryCode": "se",
 		"urlCode": "se/sv",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog": "80402809",
+			"zoo": "60402810"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/se/sv/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/se/sv/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/se/sv/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/se/sv/p/djungelskog-mjukdjur-panda-80402809/",
+			"djungelskog_mini": "https://www.ikea.com/se/sv/",
+			"zoo": "https://www.ikea.com/se/sv/p/djungelskog-mjukdjur-blandade-modeller-60402810/"
 		},
 		"stores": [
 			{
@@ -2795,12 +2908,14 @@ export default [
 		"countryCode": "ch",
 		"urlCode": "ch/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316",
+			"djungelskog_mini": "30606106"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/ch/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/ch/en/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/ch/en/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/ch/en/",
+			"djungelskog_mini": "https://www.ikea.com/ch/en/p/djungelskog-soft-toy-mini-panda-30606106/",
+			"zoo": "https://www.ikea.com/ch/en/"
 		},
 		"stores": [
 			{
@@ -2869,16 +2984,18 @@ export default [
 		"name": "Taiwan",
 		"emoji": "🇹🇼",
 		"itemUrls": {
-			"original": "https://www.ikea.com.tw/en/products/childrens-play/comfort-toys/kramig-70606109",
-			"baby": "https://www.ikea.com.tw/en/products/kids-toys/comfort-toys/kramig-art-10221317"
+			"kramig": "https://www.ikea.com.tw/en/products/kids-toys/comfort-toys/kramig-art-10221317",
+			"djungelskog": "https://www.ikea.com/",
+			"djungelskog_mini": "https://www.ikea.com/",
+			"zoo": "https://www.ikea.com/"
 		},
 		"cantCheckUrls": true,
 		"cantCheckAutomatically": true,
 		"cantCheckAutomaticallyMessage": "Taiwan's IKEA website uses a different codebase, so this site cannot check the KRAMIG stock automatically at the moment. Check on their site at the link below!",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "10221317"
-		}
+			"kramig": "10221317"
+		},
+		"countryCode": "tw"
 	},
 	{
 		"name": "Thailand",
@@ -2886,12 +3003,14 @@ export default [
 		"countryCode": "th",
 		"urlCode": "th/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "10221317"
+			"kramig": "10221317",
+			"djungelskog_mini": "10606107"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/th/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/th/en/p/kramig-10221317/"
+			"kramig": "https://www.ikea.com/th/en/p/kramig-10221317/",
+			"djungelskog": "https://www.ikea.com/th/en/",
+			"djungelskog_mini": "https://www.ikea.com/th/en/p/djungelskog-soft-toy-mini-panda-10606107/",
+			"zoo": "https://www.ikea.com/th/en/"
 		},
 		"stores": [
 			{
@@ -2918,16 +3037,20 @@ export default [
 		"name": "Turkey",
 		"emoji": "🇹🇷",
 		"itemUrls": {
-			"original": "https://www.ikea.com.tr/en/p30373588",
-			"baby": "https://www.ikea.com.tr/en/product/kramig-30221316"
+			"kramig": "https://www.ikea.com.tr/en/product/kramig-30221316",
+			"djungelskog": "https://www.ikea.com.tr/en/product/djungelskog-black-white-soft-toy-80402809",
+			"djungelskog_mini": "https://www.ikea.com.tr/en/product/djungelskog-black-white-11-cm-soft-toy-30606106",
+			"zoo": "https://www.ikea.com/"
 		},
 		"cantCheckUrls": true,
 		"cantCheckAutomatically": true,
 		"cantCheckAutomaticallyMessage": "Turkey's IKEA website uses a different codebase, so this site cannot check the KRAMIG stock automatically at the moment. Check on their site at the link below!",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
-		}
+			"kramig": "30221316",
+			"djungelskog": "80402809",
+			"djungelskog_mini": "30606106"
+		},
+		"countryCode": "tr"
 	},
 	{
 		"name": "Ukraine",
@@ -2939,8 +3062,13 @@ export default [
 		"cantCheckAutomatically": true,
 		"cantCheckAutomaticallyMessage": "Ukraine seems to not sell KRAMIG.",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316"
+		},
+		"itemUrls": {
+			"kramig": "https://www.ikea.com/ua/uk/",
+			"djungelskog": "https://www.ikea.com/ua/uk/",
+			"djungelskog_mini": "https://www.ikea.com/ua/uk/",
+			"zoo": "https://www.ikea.com/ua/uk/"
 		}
 	},
 	{
@@ -2949,12 +3077,15 @@ export default [
 		"countryCode": "ae",
 		"urlCode": "ae/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "60556379"
+			"kramig": "60556379",
+			"djungelskog": "90556721",
+			"zoo": "90556716"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/ae/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/ae/en/p/kramig-60556379/"
+			"kramig": "https://www.ikea.com/ae/en/p/kramig-60556379/",
+			"djungelskog": "https://www.ikea.com/ae/en/p/djungelskog-soft-toy-panda-90556721/",
+			"djungelskog_mini": "https://www.ikea.com/ae/en/",
+			"zoo": "https://www.ikea.com/ae/en/p/djungelskog-soft-toy-assorted-designs-90556716/"
 		},
 		"stores": [
 			{
@@ -2984,12 +3115,13 @@ export default [
 		"countryCode": "gb",
 		"urlCode": "gb/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "30221316"
+			"kramig": "30221316"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/gb/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/gb/en/p/kramig-30221316/"
+			"kramig": "https://www.ikea.com/gb/en/p/kramig-30221316/",
+			"djungelskog": "https://www.ikea.com/gb/en/",
+			"djungelskog_mini": "https://www.ikea.com/gb/en/",
+			"zoo": "https://www.ikea.com/gb/en/"
 		},
 		"stores": [
 			{
@@ -3151,12 +3283,14 @@ export default [
 		"countryCode": "us",
 		"urlCode": "us/en",
 		"itemIds": {
-			"original": "70606109",
-			"baby": "90221318"
+			"kramig": "90221318",
+			"djungelskog_mini": "70606109"
 		},
 		"itemUrls": {
-			"original": "https://www.ikea.com/us/en/p/kramig-70606109/",
-			"baby": "https://www.ikea.com/us/en/p/kramig-90221318/"
+			"kramig": "https://www.ikea.com/us/en/p/kramig-90221318/",
+			"djungelskog": "https://www.ikea.com/us/en/",
+			"djungelskog_mini": "https://www.ikea.com/us/en/p/djungelskog-soft-toy-mini-panda-70606109/",
+			"zoo": "https://www.ikea.com/us/en/"
 		},
 		"stores": [
 			{

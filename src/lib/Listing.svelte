@@ -1,6 +1,7 @@
 <script>
 	import { fly } from 'svelte/transition'
 	export let listing
+	export let toyName = 'panda'
 	export let delay = 0
 	const positive =
 		listing.quantity && (listing.quantity > 0 || listing.quantity == -2)
@@ -8,13 +9,13 @@
 	let message = listing.message
 	if (!message) {
 		if (listing.quantity === 1) {
-			message = `${listing.quantity} panda`
+			message = `${listing.quantity} ${toyName}`
 		} else if (listing.quantity === -2) {
-			message = 'KRAMIG available (quantity uncertain)'
+			message = `${toyName} available (quantity uncertain)`
 		} else if (listing.quantity === -1) {
-			message = 'KRAMIG unavailable'
+			message = `${toyName} unavailable`
 		} else {
-			message = `${listing.quantity} pandas`
+			message = `${listing.quantity} ${toyName}s`
 		}
 	}
 
@@ -47,7 +48,7 @@
 	<p class="quantity">{message}</p>
 	{#if listing.nextRestock}
 		<p class="restock-date">
-			Restocking {listing.nextRestock.quantity} pandas on {restockRange}
+			Restocking {listing.nextRestock.quantity} {toyName}s on {restockRange}
 		</p>
 	{/if}
 </div>

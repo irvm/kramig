@@ -9,8 +9,14 @@
 	let loaded = false
 	let isOpen = false
 
-	const available = typeof countryData.itemUrls?.[itemType] != 'undefined'
-	const toyName = itemType === 'original' ? 'DJUNGELSKOG Mini Panda' : 'KRAMIG'
+	const available = typeof countryData.itemIds?.[itemType] != 'undefined'
+	const toyNames = {
+		kramig: 'KRAMIG Panda',
+		djungelskog: 'DJUNGELSKOG Panda',
+		djungelskog_mini: 'DJUNGELSKOG Mini Panda',
+		zoo: 'ZOO (Assorted Animals)'
+	}
+	const toyName = toyNames[itemType] || 'Toy'
 
 	function onClick() {
 		isOpen = !isOpen
@@ -34,9 +40,9 @@
 		on:click={onClick}
 	>
 		<h2 class="country-listings-name-wrapper">
-			<span class="country-listings-emoji" aria-hidden="true"
-				>{countryData.emoji}</span
-			>
+			<span class="country-listings-emoji" aria-hidden="true">
+				<span class="fi fi-{countryData.countryCode}"></span>
+			</span>
 			<span>{countryData.name}</span>
 			{#if countryData.cantCheckAutomatically}
 				<span class="country-listings-name-warning">(broken)</span>
@@ -70,7 +76,7 @@
 						{#if listings.length > 0}
 							<ul>
 								{#each listings as listing, i}
-									<Listing {listing} delay={(400 / listings.length) * i} />
+									<Listing {listing} {toyName} delay={(400 / listings.length) * i} />
 								{/each}
 							</ul>
 						{:else}

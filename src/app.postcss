@@ -12,7 +12,7 @@
 	--positive: #4eff93;
 	--negative: #c83867;
 
-	--font-family: 'DM Sans', sans-serif;
+	--font-family: 'DM Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
 body {
@@ -127,7 +127,8 @@ button {
 	width: 100%;
 	max-width: 800px;
 	object-fit: cover;
-	object-position: left 60%;
+	object-position: right 45%;
+	transform: scale(1) translateY(0%);
 	mask-image: linear-gradient(
 		100deg,
 		rgba(0, 0, 0, 0) 10%,
@@ -190,13 +191,18 @@ button {
 }
 
 .display-image img {
-	width: 100%;
+	width: auto;
 	height: 100%;
+	aspect-ratio: 1 / 1;
 	object-fit: contain;
 	background-color: white;
 	border-radius: 50%;
 	box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
 	padding: 1rem;
+}
+
+.fi {
+	border-radius: 2px;
 }
 
 .display-image-badge {

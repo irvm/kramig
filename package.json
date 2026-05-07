@@ -27,5 +27,8 @@
 		"svelte": "^4.2.18",
 		"vite": "^5.3.1"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"flag-icons": "^7.5.0"
+	}
 }

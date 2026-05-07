@@ -53,16 +53,10 @@
 	}
 </script>
 
-{#if toyType === 'original'}
-	<div class="listings" transition:fly={{ x: -800, duration: 400 }}>
-		{#each filteredCountries as countryData}
-			<CountryListings {countryData} itemType="original" />
-		{/each}
-	</div>
-{:else if toyType === 'baby'}
-	<div class="listings" transition:fly={{ x: 800, duration: 400 }}>
-		{#each filteredCountries as countryData}
-			<CountryListings {countryData} itemType="baby" />
-		{/each}
-	</div>
-{/if}
+<div class="listings">
+	{#each filteredCountries as countryData (countryData.name + toyType)}
+		<div transition:fly={{ x: 800, duration: 400 }}>
+			<CountryListings {countryData} itemType={toyType} />
+		</div>
+	{/each}
+</div>
